@@ -1,0 +1,16 @@
+.room-details-container {
+    padding: 20px;
+}
+
+.back-to-home-link {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    text-decoration: none;
+    color: #333;
+}
+
+.reservation-message {
+    margin-top: 20px;
+    font-style: italic;
+}
